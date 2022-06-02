@@ -3,11 +3,8 @@
 
 <h3 align="center">Soy desarrollador de software graduado como Ingeniero de Sistemas enfocado principalmente en el desarrollo web y movil, incursionando como desarrollador front-end junior. En busca de nuevas oportunidades, altamente motivado para aprender, mejorar mis habilidades y trabajar en equipo.</h3>
 
-<p align='center'><img src="https://lh3.googleusercontent.com/pw/AM-JKLWv5g4On6d7lG2gEcpJFqYUIaC38OgD2EsZZlz1kefAGKlvKSkGOvxNwMx6BPsLaBDTn-XYvz8n61okCDjizUMExYGSTfgj85zc9q80lj4GOJ8sIDuiMCU6X5kjQcMUQJiLsrJSG-wBlavLKNyvundA=s640-no?authuser=0" alt="Your image title" width="250"/></p>
-
-
 <h3 align="left">Contacto</h3>
-<p align="left">
+<p align="center" style='background:red'>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/einar-herrera-2800a6230/" target="blank"><img  src="https://lh3.googleusercontent.com/pw/AM-JKLU8bDwy3Oks4zVZ7Jv90adI-osRhZsw9C-UnAZmj-ThjUqiRmK3AVAy4KRP7DxI5dFjcm5nFfpHiOa5r5H0_FhpAMvb11GrRdREjDEclDJ94fo5tR5BG53fV0LjzHvkXDHEoho9mckiAbyRHTi3PrAb=s640-no?authuser=0" alt="https://www.linkedin.com/in/einar-herrera-2800a6230/" height="60" width="60" />linkedin</a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100079000389792" target="blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWIrS9vGu91yqytbV9WRmeYBijFAbagwI9ekRI3DBcGQXp6O-39gs4TBYAbeY4ZT8mGmLfFbpVMrwFZPy0WnDdgo-Xfg_vwJzOL9fDJCSByNojr1QwSFdTAuiCEBcTLdkWAw2AEKl0aE0E9bBJr_kL8=s640-no?authuser=0" height="50" width="50" />facebook</a>
 <a href="https://instagram.com/https://www.instagram.com/einar_noel/" target="blank"><img  src="https://lh3.googleusercontent.com/pw/AM-JKLXr9wu0CNnQ0engvSxGuoxSBgQdhMjUBvfVdr4xkvha3Y5iwANkH2K_JJeFYjoypOcpNBrn7MV5fs5pSfPsZWJH64wphZlkTDpfFcNutR11koyxLG46-qVnx3iWZ4rkQZ5i41u1M1YIFiSLW_LzLpPD=s640-no?authuser=0" alt="https://www.instagram.com/einar_noel/" height="60" width="60" />instagram</a>

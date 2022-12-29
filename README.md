@@ -13,6 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/https://www.facebook.com/profile.php?id=100079000389792)
 <a href="https://instagram.com/https://www.instagram.com/einar_noel/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/noedev001" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  [![Pörtafolio](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://noedev001.github.io)
+  <a href="https://noedev001.github.io" target="blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank">portafolio</a>
+ 
 </p>
 

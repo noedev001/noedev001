@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Einar Noel Herrera Chambi</h1>
-<p align='center'><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p></p>
+<p align='center'><img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" alt="Your image title" width="250"/></p>
 
 <h3 align="center">Soy desarrollador de software graduado como Ingeniero de Sistemas enfocado principalmente en el desarrollo web y movil, incursionando como desarrollador front-end junior. En busca de nuevas oportunidades, altamente motivado para aprender, mejorar mis habilidades y trabajar en equipo.</h3>
 

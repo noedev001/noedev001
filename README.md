@@ -9,10 +9,10 @@
 
 <h3 align="left">Contacto</h3>
 <p align="center" style='background:white'>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/einar-herrera-2800a6230/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">linkedin</a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100079000389792" target="blank"><img src="https://lh3.googleusercontent.com/pw/AM-JKLWIrS9vGu91yqytbV9WRmeYBijFAbagwI9ekRI3DBcGQXp6O-39gs4TBYAbeY4ZT8mGmLfFbpVMrwFZPy0WnDdgo-Xfg_vwJzOL9fDJCSByNojr1QwSFdTAuiCEBcTLdkWAw2AEKl0aE0E9bBJr_kL8=s640-no?authuser=0" height="50" width="50" />facebook</a>
-<a href="https://instagram.com/https://www.instagram.com/einar_noel/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">instagram</a>
-<a href="https://twitter.com/noedev001" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">twitter</a>
-<a href="https://noedev001.github.io" target="blank"><img  src="https://lh3.googleusercontent.com/pw/AM-JKLXwyoIJwzjX5lEF_OsUmIQ_l9cIWmYTUfXSyiBt5XNnMlcqyH0SM87mWYhh-4fqlWnSqgwfLbWbvKrpEFtTyBaH9RKBx77da0q9qGIbQti7fnmmJjBdg5mSuVt-HkviejS2zjm5ykWHZUadNRubym4I=s640-no?authuser=0" height="60" width="60" /> portafolio</a> 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/einar-herrera-2800a6230/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/https://www.facebook.com/profile.php?id=100079000389792)
+<a href="https://instagram.com/https://www.instagram.com/einar_noel/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/noedev001" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  [![Pörtafolio](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://noedev001.github.io)
 </p>
 

@@ -45,11 +45,5 @@ Contacto
 
 
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=noedev001&show_icons=true&theme=radical">
-</p>
-<p align=center>  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noedev001&layout=compact&theme=cobalt&hide_border=true" />
-</p>
 
 
